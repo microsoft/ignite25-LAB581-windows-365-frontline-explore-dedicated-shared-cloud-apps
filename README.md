@@ -20,7 +20,7 @@
 1. Intune
 1. Windows App
 
-### 📚 Resources and Next Steps
+### 📚 Resources
 
 | Resources          | Links                             |
 |:-------------------|:----------------------------------|
