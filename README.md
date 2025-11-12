@@ -22,12 +22,12 @@
 
 ### 📚 Resources and Next Steps
 
-| Resources          | Links                             | Description        |
-|:-------------------|:----------------------------------|:-------------------|
-| What is Windows 365 Frontline?  | [https://learn.microsoft.com/en-us/windows-365/enterprise/introduction-windows-365-frontline](https://learn.microsoft.com/en-us/windows-365/enterprise/introduction-windows-365-frontline) |  |
-| Windows 365 Frontline licensing | [https://learn.microsoft.com/en-us/windows-365/enterprise/frontline-license](https://learn.microsoft.com/en-us/windows-365/enterprise/frontline-license)|  |
-| Managing Windows 365 Frontline Cloud PCs | [https://learn.microsoft.com/en-us/windows-365/enterprise/windows-365-frontline-manage](https://learn.microsoft.com/en-us/windows-365/enterprise/windows-365-frontline-manage) |  |
-| Windows 365 Cloud Apps | [https://learn.microsoft.com/en-us/windows-365/enterprise/cloud-apps](https://learn.microsoft.com/en-us/windows-365/enterprise/cloud-apps) |  |
+| Resources          | Links                             |
+|:-------------------|:----------------------------------|
+| What is Windows 365 Frontline?  | [https://learn.microsoft.com/en-us/windows-365/enterprise/introduction-windows-365-frontline](https://learn.microsoft.com/en-us/windows-365/enterprise/introduction-windows-365-frontline) | 
+| Windows 365 Frontline licensing | [https://learn.microsoft.com/en-us/windows-365/enterprise/frontline-license](https://learn.microsoft.com/en-us/windows-365/enterprise/frontline-license)| 
+| Managing Windows 365 Frontline Cloud PCs | [https://learn.microsoft.com/en-us/windows-365/enterprise/windows-365-frontline-manage](https://learn.microsoft.com/en-us/windows-365/enterprise/windows-365-frontline-manage) | 
+| Windows 365 Cloud Apps | [https://learn.microsoft.com/en-us/windows-365/enterprise/cloud-apps](https://learn.microsoft.com/en-us/windows-365/enterprise/cloud-apps) | 
 
 ## Contributing
 
