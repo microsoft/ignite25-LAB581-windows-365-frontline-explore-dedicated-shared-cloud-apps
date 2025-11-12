@@ -24,9 +24,9 @@
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Link to the outline  | [LAB581 - Windows 365 Frontline – Explore Dedicated, Shared, and Cloud Apps - Outline](https://microsoft-my.sharepoint-df.com/:w:/p/ryandonna/EfIisfW_kQ5AmlLbahFjYIABgTn5_zQdGWFvgtq_PF7IOg?e=Xvc3TD&wdOrigin=LOOP-WEB.PREVIEW.NT&wduihid=52ed514f-6e2f-434e-bce2-facc59a7bba6&web=1&ct=1762907992188) |  |
-| Link to the Skillable lab | [LAB581 - Windows 365 Frontline – Explore Dedicated, Shared, and Cloud Apps - SkillableLab](https://labondemand.com/LabProfile/198054)|  |
-| Link to the user guide | [Ignite 2025- Frontline Lab Guide](https://microsoft-my.sharepoint-df.com/:w:/p/ianwa/Edkjuk5b7elKlACQq3M-XpcBlrdJFu7CDrL7QZfmKdPMHw?e=N4mRMq&wdOrigin=LOOP-WEB.PREVIEW.NT&wduihid=52ed514f-6e2f-434e-bce2-facc59a7bba6&web=1&ct=1762908769962) |  |
+| Link to the outline  | [Outline](https://microsoft-my.sharepoint-df.com/:w:/p/ryandonna/EfIisfW_kQ5AmlLbahFjYIABgTn5_zQdGWFvgtq_PF7IOg?e=Xvc3TD&wdOrigin=LOOP-WEB.PREVIEW.NT&wduihid=52ed514f-6e2f-434e-bce2-facc59a7bba6&web=1&ct=1762907992188) |  |
+| Link to the Skillable lab | [SkillableLab](https://labondemand.com/LabProfile/198054)|  |
+| Link to the user guide | [Lab Guide](https://microsoft-my.sharepoint-df.com/:w:/p/ianwa/Edkjuk5b7elKlACQq3M-XpcBlrdJFu7CDrL7QZfmKdPMHw?e=N4mRMq&wdOrigin=LOOP-WEB.PREVIEW.NT&wduihid=52ed514f-6e2f-434e-bce2-facc59a7bba6&web=1&ct=1762908769962) |  |
 
 ## Contributing
 
