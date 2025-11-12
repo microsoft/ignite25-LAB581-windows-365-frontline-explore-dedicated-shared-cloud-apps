@@ -16,17 +16,18 @@
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
+1. Windows 365 Frontline
+1. Intune
+1. Windows App
 
 ### 📚 Resources and Next Steps
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Link to the outline  | [Outline](https://microsoft-my.sharepoint-df.com/:w:/p/ryandonna/EfIisfW_kQ5AmlLbahFjYIABgTn5_zQdGWFvgtq_PF7IOg?e=Xvc3TD) |  |
-| Link to the Skillable lab | [SkillableLab](https://labondemand.com/LabProfile/198054)|  |
-| Link to the user guide | [Lab Guide](https://microsoft-my.sharepoint-df.com/:w:/p/ianwa/Edkjuk5b7elKlACQq3M-XpcBlrdJFu7CDrL7QZfmKdPMHw?e=N4mRMq) |  |
+| What is Windows 365 Frontline?  | [https://learn.microsoft.com/en-us/windows-365/enterprise/introduction-windows-365-frontline](https://learn.microsoft.com/en-us/windows-365/enterprise/introduction-windows-365-frontline) |  |
+| Windows 365 Frontline licensing | [https://learn.microsoft.com/en-us/windows-365/enterprise/frontline-license](https://learn.microsoft.com/en-us/windows-365/enterprise/frontline-license)|  |
+| Managing Windows 365 Frontline Cloud PCs | [https://learn.microsoft.com/en-us/windows-365/enterprise/windows-365-frontline-manage](https://learn.microsoft.com/en-us/windows-365/enterprise/windows-365-frontline-manage) |  |
+| Windows 365 Cloud Apps | [https://learn.microsoft.com/en-us/windows-365/enterprise/cloud-apps](https://learn.microsoft.com/en-us/windows-365/enterprise/cloud-apps) |  |
 
 ## Contributing
 
