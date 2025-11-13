@@ -29,6 +29,12 @@
 | Managing Windows 365 Frontline Cloud PCs | [https://learn.microsoft.com/en-us/windows-365/enterprise/windows-365-frontline-manage](https://learn.microsoft.com/en-us/windows-365/enterprise/windows-365-frontline-manage) | 
 | Windows 365 Cloud Apps | [https://learn.microsoft.com/en-us/windows-365/enterprise/cloud-apps](https://learn.microsoft.com/en-us/windows-365/enterprise/cloud-apps) | 
 
+### 🚀 Resources & Next Steps
+
+| Resources | Links | Description |
+|:----------|:------|:------------|
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions | 
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
